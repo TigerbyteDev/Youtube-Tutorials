@@ -1,0 +1,14 @@
+{
+  "name": "folge1",
+  "version": "1.0.0",
+  "description": "Folge 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "TigerbyteDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
