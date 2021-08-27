@@ -48,4 +48,4 @@ client.on('interactionCreate', interaction => {
      message.channel.send('hiv2')
  })
 
-client.login('ODgwODk2NTUzNDQxNjk3ODIz.YSk82A.Jj_Xh0a3ag8RjXHSaM6HgrZIcbk')
+client.login('freshes bot token')
